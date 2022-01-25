@@ -1,0 +1,39 @@
+#contenedor{
+    width: 830px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+#mainheader{
+    position: relative;
+    left: 40px;
+}
+
+#l1{
+    float: left;
+}
+
+#l2{
+    clear: left;
+    float: left;
+}
+
+#l3{
+    clear: left;
+    float: left;
+}
+
+#r1{
+    float: right;
+}
+
+#r2{
+    clear: right;
+    float: right;
+}
+
+#gif{
+    width: 440px;
+    height: 398px;
+}
+
